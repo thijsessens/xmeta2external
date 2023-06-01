@@ -18,7 +18,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 ### DevOps / Services
 | Meta Internal                          | Open Source / Real-World                               |
 | ---------------------------------------- | ---------------------------------------- | 
-| Daiquery                                   | [BigQuery](https://cloud.google.com/bigquery/), [Apache Drill](https://github.com/apache/drill), ,[AWS Athena](https://aws.amazon.com/athena/), [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/), [Snowflake](https://www.snowflake.com) |
+| Daiquery                                   | [BigQuery](https://cloud.google.com/bigquery/), [Apache Drill](https://github.com/apache/drill), [AWS Athena](https://aws.amazon.com/athena/), [Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/), [Snowflake](https://www.snowflake.com) |
 | Daiquery UI                                | [Redash](https://github.com/getredash/redash), [Metabase](https://github.com/metabase/metabase), [Apache Superset](https://github.com/apache/incubator-superset) |  
 | Bento | [Jupyter](https://jupyter.org), [Colaboratory](https://colab.research.google.com/) |
 | Unidash | [Looker](https://www.looker.com/), [Mode](https://mode.com) |
